@@ -1,0 +1,4 @@
+person_id,first_name,preferred_first_name,last_name,date_of_birth,hire_date,occupation
+5,Calvin,Calvin,chen,1995-03-20,2019-04-01,NULL
+6,Tarun,Tarun,Mogra,1989-01-02,2018-04-01,NULL
+7,Nan,Nancy,Smith,1989-01-02,2021-03-01,NULL

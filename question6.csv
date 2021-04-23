@@ -1,0 +1,4 @@
+person_id,first_name,preferred_first_name,last_name,date_of_birth,hire_date,occupation
+1,jhon,jhon,doe,1991-01-12,2021-04-01,Y
+4,,Ian,smith,1999-10-05,2020-04-01,Y
+5,Calvin,Calvin,chen,1995-03-20,2019-04-01,NULL

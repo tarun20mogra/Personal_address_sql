@@ -1,0 +1,8 @@
+person_id,first_name,preferred_first_name,last_name,date_of_birth,hire_date,occupation
+1,jhon,jhon,doe,1991-01-12,2021-04-01,Y
+2,,Jose,santos,1990-01-06,2021-02-01,Y
+3,,Rose,jones,2000-01-04,2021-01-01,N
+4,,Ian,smith,1999-10-05,2020-04-01,Y
+5,Calvin,Calvin,chen,1995-03-20,2019-04-01,NULL
+6,Tarun,Tarun,Mogra,1989-01-02,2018-04-01,NULL
+7,Nan,Nancy,Smith,1989-01-02,2021-03-01,NULL

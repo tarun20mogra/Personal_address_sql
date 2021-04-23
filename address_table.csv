@@ -1,0 +1,8 @@
+address_id,person_id,address_type,street_line_1,city,state,zip_code
+1,1,home,"1550 NW 128th Dr",sunrise,FL,33323
+2,6,bill,"1550 NW 128th Dr APT 302",sunrise,FL,33323
+3,2,work,"1220 weston blvd",Weston,FL,33333
+4,3,bill,"1220 Valley Ranch",Devie,NY,445001
+5,4,home,"Ave 12th Bldg 12",Edison,NJ,888088
+6,5,bill,"129 NE sunrise blvd",tamarac,CA,25541
+7,5,home,"130 NE sunrise blvd",tamarac,CA,25541

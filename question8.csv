@@ -1,0 +1,7 @@
+last_name,billing_address,home_address
+doe,NULL,"1550 NW 128th Dr,sunrise,FL 33323"
+santos,NULL,NULL
+jones,"1220 Valley Ranch,Devie,NY 445001",NULL
+smith,NULL,"Ave 12th Bldg 12,Edison,NJ 888088"
+chen,"129 NE sunrise blvd,tamarac,CA 25541","129 NE sunrise blvd,tamarac,CA 25541"
+Mogra,"1550 NW 128th Dr APT 302,sunrise,FL 33323",NULL
